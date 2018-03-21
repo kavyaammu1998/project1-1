@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"download1.jpg",
+    "name":"siri",
+    "email":"upparisireesha0@gmail.com",
+    "mobile":"9515962400"
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer science and engineering)",
+      "college":[
+        "G.pullaiah  college of engineering",
+        "2015-2019",
+        "75"
+      ]
+    },
+    {
+      "course":"intermediate(MPC)",
+      "college":[
+        "Sri Chaitanya junior college",
+        "2013-2015",
+        "90"
+      ]
+    },
+{
+  "course":"SSC",
+  "college":[
+    "Keshava Reddy Concept School",
+    "2012-2013",
+    "90"
+  ]
+}
+
+  ]
+}
